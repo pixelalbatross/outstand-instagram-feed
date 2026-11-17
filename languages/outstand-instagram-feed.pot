@@ -28,7 +28,7 @@ msgstr ""
 
 #. Description of the plugin
 #: plugin.php
-msgid "Display Instagram posts using a customizable Gutenberg block with list and grid layouts."
+msgid "Display Instagram posts in the block editor, with list and grid layouts, caching, and automatic token refresh."
 msgstr ""
 
 #. Author of the plugin

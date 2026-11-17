@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file, per [the Ke
 
 ## [Unreleased]
 
+### Changed
+
+- Updated the plugin description to mention the block editor, caching, and automatic token refresh, and added it to `composer.json`.
+
 ## [1.2.0] - 2026-07-10
 
 - Added CSRF protection to the Instagram OAuth flow via a signed `state` token verified on the callback.

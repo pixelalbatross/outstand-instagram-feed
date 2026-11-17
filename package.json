@@ -1,7 +1,7 @@
 {
   "name": "outstand-instagram-feed",
   "version": "1.2.0",
-  "description": "Display Instagram posts using a customizable Gutenberg block with list and grid layouts.",
+  "description": "Display Instagram posts in the block editor, with list and grid layouts, caching, and automatic token refresh.",
   "contributors": [
     {
       "name": "S\u00e9rgio Santos",

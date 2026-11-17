@@ -1,5 +1,6 @@
 {
   "name": "outstand/instagram-feed",
+  "description": "Display Instagram posts in the block editor, with list and grid layouts, caching, and automatic token refresh.",
   "type": "wordpress-plugin",
   "license": "GPL-3.0-or-later",
   "authors": [

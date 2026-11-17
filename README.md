@@ -1,6 +1,6 @@
 # Outstand Instagram Feed
 
-> Display Instagram posts using a customizable Gutenberg block with list and grid layouts.
+> Display Instagram posts in the block editor, with list and grid layouts, caching, and automatic token refresh.
 
 ## Description
 

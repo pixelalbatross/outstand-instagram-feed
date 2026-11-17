@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Outstand Instagram Feed
- * Description:       Display Instagram posts using a customizable Gutenberg block with list and grid layouts.
+ * Description:       Display Instagram posts in the block editor, with list and grid layouts, caching, and automatic token refresh.
  * Plugin URI:        https://outstand.site/?utm_source=wp-plugins&utm_medium=outstand-instagram-feed&utm_campaign=plugin-uri
  * Requires at least: 6.7
  * Requires PHP:      8.2
